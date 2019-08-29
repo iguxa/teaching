@@ -1,15 +1,10 @@
 <template>
   <div>
-    <h1>{{carName}}</h1>
-
-
     <app-counter></app-counter>
-    <app-car
-            :carName="carName"
-            :carYear="carYear"
-            :changeFunc="changNameToAudi"
-            @nameChanged="carName = $event"
-    ></app-car>
+    <app-car>
+      <h2 slot="title">{{carName}}</h2>
+      <p slot="text">Lorem 3</p>
+    </app-car>
   </div>
 
 </template>
@@ -19,18 +14,11 @@
   import Counter from './Counter.vue'
   export default {
   name: 'app',
-  data () {
-    return {
-      carName:'Ford',
-      carYear: 2018,
-      //counter:0
-    }
-  },
-  methods:{
-   changNameToAudi(){
-     this.carName = 'Audi'
-   }
-  },
+    data(){
+      return {
+        carName: 'Ford'
+      }
+    },
   components:{
     appCar:Car,
     appCounter:Counter

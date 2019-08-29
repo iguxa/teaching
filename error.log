@@ -1,0 +1,379 @@
+2019/08/18 01:30:13 [error] 13949#13949: *11 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 15
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:28
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 16
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:28" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:30:18 [error] 13949#13949: *11 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 15
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:28
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 16
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:28" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:30:19 [error] 13949#13949: *11 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 15
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:28
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 16
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:28" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:30:19 [error] 13949#13949: *11 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 15
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:28
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 16
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:28" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:30:28 [error] 13949#13949: *11 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 15
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:29
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 16
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:29" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:30:44 [error] 13949#13949: *11 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 15
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:30
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 16
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:30" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:30:50 [error] 13949#13949: *11 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 15
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:30
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 16
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:30" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:32:34 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:32:35 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:32:41 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:32:54 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:32:55 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:32:55 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:32:55 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:33:29 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:33:30 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:33:34 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:11
+Stack trace:
+#0 /var/www/face/recursion.php(18): bubble_sort(Array)
+#1 /var/www/face/recursion.php(18): bubble_sort(Array)
+#2 /var/www/face/recursion.php(18): bubble_sort(Array)
+#3 /var/www/face/recursion.php(18): bubble_sort(Array)
+#4 /var/www/face/recursion.php(18): bubble_sort(Array)
+#5 /var/www/face/recursion.php(18): bubble_sort(Array)
+#6 /var/www/face/recursion.php(18): bubble_sort(Array)
+#7 /var/www/face/recursion.php(18): bubble_sort(Array)
+#8 /var/www/face/recursion.php(18): bubble_sort(Array)
+#9 /var/www/face/recursion.php(18): bubble_sort(Array)
+#10 /var/www/face/recursion.php(18): bubble_sort(Array)
+#11 /var/www/face/recursion.php(18): bubble_sort(Array)
+#12 /var/www/face/recursion.php(18): bubble_sort(Array)
+#13 /var/www/face/recursion.php(18): bubble_sort(Array)
+#14 /var/www/face/recursion.php(18): bubble_sort(Array)
+#15 /var/www/face/recursion.php(18):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:33:43 [error] 13949#13949: *29 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:17
+Stack trace:
+#0 /var/www/face/recursion.php(24): bubble_sort(Array)
+#1 /var/www/face/recursion.php(24): bubble_sort(Array)
+#2 /var/www/face/recursion.php(24): bubble_sort(Array)
+#3 /var/www/face/recursion.php(24): bubble_sort(Array)
+#4 /var/www/face/recursion.php(24): bubble_sort(Array)
+#5 /var/www/face/recursion.php(24): bubble_sort(Array)
+#6 /var/www/face/recursion.php(24): bubble_sort(Array)
+#7 /var/www/face/recursion.php(24): bubble_sort(Array)
+#8 /var/www/face/recursion.php(24): bubble_sort(Array)
+#9 /var/www/face/recursion.php(24): bubble_sort(Array)
+#10 /var/www/face/recursion.php(24): bubble_sort(Array)
+#11 /var/www/face/recursion.php(24): bubble_sort(Array)
+#12 /var/www/face/recursion.php(24): bubble_sort(Array)
+#13 /var/www/face/recursion.php(24): bubble_sort(Array)
+#14 /var/www/face/recursion.php(24): bubble_sort(Array)
+#15 /var/www/face/recursion.php(24):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:35:02 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:17
+Stack trace:
+#0 /var/www/face/recursion.php(24): bubble_sort(Array)
+#1 /var/www/face/recursion.php(24): bubble_sort(Array)
+#2 /var/www/face/recursion.php(24): bubble_sort(Array)
+#3 /var/www/face/recursion.php(24): bubble_sort(Array)
+#4 /var/www/face/recursion.php(24): bubble_sort(Array)
+#5 /var/www/face/recursion.php(24): bubble_sort(Array)
+#6 /var/www/face/recursion.php(24): bubble_sort(Array)
+#7 /var/www/face/recursion.php(24): bubble_sort(Array)
+#8 /var/www/face/recursion.php(24): bubble_sort(Array)
+#9 /var/www/face/recursion.php(24): bubble_sort(Array)
+#10 /var/www/face/recursion.php(24): bubble_sort(Array)
+#11 /var/www/face/recursion.php(24): bubble_sort(Array)
+#12 /var/www/face/recursion.php(24): bubble_sort(Array)
+#13 /var/www/face/recursion.php(24): bubble_sort(Array)
+#14 /var/www/face/recursion.php(24): bubble_sort(Array)
+#15 /var/www/face/recursion.php(24):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:35:18 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:35:53 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 11 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:36:48 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 11 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:36:52 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:36:52 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 9 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:37:07 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 11 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru"
+2019/08/18 01:38:04 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 11 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru", referrer: "http://face.ru/recursion.php"
+2019/08/18 01:38:07 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 11 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru", referrer: "http://face.ru/recursion.php"
+2019/08/18 01:38:14 [error] 13949#13949: *54 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 11 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort() /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru", referrer: "http://face.ru/recursion.php"
+2019/08/18 01:43:51 [error] 27589#27589: *1 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 10 in /var/www/face/recursion.php on line 21
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort($array = *uninitialized*) /var/www/face/recursion.php:38
+PHP message: PHP Notice:  Undefined offset: 11 in /var/www/face/recursion.php on line 22
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/face/recursion.php:0
+PHP message: PHP   2. bubble_sort($array = *uninitialized*) /var/www/face/recursion.php:38" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru", referrer: "http://face.ru/recursion.php"
+2019/08/18 01:51:07 [error] 27589#27589: *23 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/face/recursion.php:17
+Stack trace:
+#0 /var/www/face/recursion.php(25): bubble_sort(Array)
+#1 /var/www/face/recursion.php(25): bubble_sort(Array)
+#2 /var/www/face/recursion.php(25): bubble_sort(Array)
+#3 /var/www/face/recursion.php(25): bubble_sort(Array)
+#4 /var/www/face/recursion.php(25): bubble_sort(Array)
+#5 /var/www/face/recursion.php(25): bubble_sort(Array)
+#6 /var/www/face/recursion.php(25): bubble_sort(Array)
+#7 /var/www/face/recursion.php(25): bubble_sort(Array)
+#8 /var/www/face/recursion.php(25): bubble_sort(Array)
+#9 /var/www/face/recursion.php(25): bubble_sort(Array)
+#10 /var/www/face/recursion.php(25): bubble_sort(Array)
+#11 /var/www/face/recursion.php(25): bubble_sort(Array)
+#12 /var/www/face/recursion.php(25): bubble_sort(Array)
+#13 /var/www/face/recursion.php(25): bubble_sort(Array)
+#14 /var/www/face/recursion.php(25): bubble_sort(Array)
+#15 /var/www/face/recursion.php(25):" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru", referrer: "http://face.ru/recursion.php"
+2019/08/18 02:26:56 [error] 27589#27589: *363 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught TypeError: Argument 1 passed to old_bubble_sort() must be of the type array, null given, called in /var/www/face/recursion.php on line 66 and defined in /var/www/face/recursion.php:52
+Stack trace:
+#0 /var/www/face/recursion.php(66): old_bubble_sort(NULL)
+#1 {main}
+  thrown in /var/www/face/recursion.php on line 52" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru", referrer: "http://face.ru/recursion.php"
+2019/08/18 02:29:20 [error] 27589#27589: *486 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function bubble_sort() in /var/www/face/recursion.php:46
+Stack trace:
+#0 {main}
+  thrown in /var/www/face/recursion.php on line 46" while reading response header from upstream, client: 127.0.0.1, server: face.ru, request: "GET /recursion.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "face.ru", referrer: "http://face.ru/recursion.php"
