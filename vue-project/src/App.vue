@@ -1,6 +1,6 @@
 <template xmlns:v-colored="http://www.w3.org/1999/xhtml">
   <div class="container">
-    <form class="pt-3">
+    <form class="pt-3"@submit.prevent="onSubmit">
       <div class="form-group">
       <label for="email">Email</label>
       <input
@@ -39,6 +39,11 @@
         >
         <div v-if="!$v.confirmPassword.sameAs" class="invalid-feedback">Password should match</div>
       </div>
+      <button
+              class="btn btn-success"
+              type="submit"
+              :disabled="$v.$invalid"
+      >Submit</button>
     </form>
   </div>
 </template>
@@ -76,6 +81,12 @@
           return vue.password
         })
 
+      }
+    },
+    methods:{
+      onSubmit(){
+        console.log('Email',this.email);
+        console.log('password',this.password);
       }
     }
 }
