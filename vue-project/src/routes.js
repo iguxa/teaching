@@ -2,7 +2,7 @@ import VueRouter from 'vue-router'
 import Home from './pages/Home'
 import Cars from './pages/Cars'
 
-export default new VueRouter( {
+export default new VueRouter({
     routes:[
         {
             path:'',
@@ -12,6 +12,7 @@ export default new VueRouter( {
             path:'/cars',
             component: Cars
         }
-    ]
+    ],
+    mode: 'history'
 }
 )

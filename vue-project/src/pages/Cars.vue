@@ -1,5 +1,9 @@
 <template>
-    <h1>Cars page</h1>
+    <div>
+        <h1>Cars page</h1>
+        <a href="/">home</a>
+    </div>
+
 </template>
 
 <script>
