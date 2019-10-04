@@ -12,7 +12,8 @@
                     query:{
                         name:'Mazda',
                         year:'2000'
-                    }
+                    },
+                    hash:'#scroll'
                 }"
 
         >
@@ -42,7 +43,16 @@
             goBackToCars(){
                 this.$router.push('/cars')
             }
+        },
+        beforeRouteLeave(to,fromR,next){
+            console.log('beforeRouteLeave');
+            if(window.confirm('Sure?')){
+                next()
+            }else{
+                next(false);
+            }
         }
+
     }
 </script>
 
